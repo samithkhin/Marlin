@@ -22,6 +22,7 @@
 #pragma once
 
 #define CONFIG_EXAMPLES_DIR "delta/Anycubic/Predator"
+
 /**
  * Configuration.h
  *
